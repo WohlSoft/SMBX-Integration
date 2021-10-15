@@ -103,47 +103,47 @@ function onConfigure()
 
             for(var i=292; i<=300; i++)
             {
-                var inputfile = FileIO.scriptPath()+"/commonGFX/dummy-npc.gif";
+                var inputfile = FileIO.scriptPath()+"/data/commonGFX/dummy-npc.gif";
                 var outputfile = smbxPath+"/graphics/npc/npc-" + i + ".gif";
                 FileIO.copy( inputfile, outputfile, false );
 
-                    inputfile = FileIO.scriptPath()+"/commonGFX/dummy-npcm.gif";
+                    inputfile = FileIO.scriptPath()+"/data/commonGFX/dummy-npcm.gif";
                     outputfile = smbxPath+"/graphics/npc/npc-" + i + "m.gif";
                 FileIO.copy( inputfile, outputfile, false );
             }
             for(var i=639; i<=700; i++)
             {
-                var inputfile = FileIO.scriptPath()+"/commonGFX/dummy-block.gif";
+                var inputfile = FileIO.scriptPath()+"/data/commonGFX/dummy-block.gif";
                 var outputfile = smbxPath+"/graphics/block/block-" + i + ".gif";
                 FileIO.copy( inputfile, outputfile, false );
             }
             for(var i=191; i<=200; i++)
             {
-                var inputfile = FileIO.scriptPath()+"/commonGFX/dummy_bgo.gif";
+                var inputfile = FileIO.scriptPath()+"/data/commonGFX/dummy_bgo.gif";
                 var outputfile = smbxPath+"/graphics/background/background-" + i + ".gif";
                 FileIO.copy( inputfile, outputfile, false );
             }
             for(var i=329; i<=400; i++)
             {
-                var inputfile = FileIO.scriptPath()+"/commonGFX/dummy_tile.gif";
+                var inputfile = FileIO.scriptPath()+"/data/commonGFX/dummy_tile.gif";
                 var outputfile = smbxPath+"/graphics/tile/tile-" + i + ".gif";
                 FileIO.copy( inputfile, outputfile, false );
             }
             for(var i=66; i<=100; i++)
             {
-                var inputfile = FileIO.scriptPath()+"/commonGFX/dummy_scene.gif";
+                var inputfile = FileIO.scriptPath()+"/data/commonGFX/dummy_scene.gif";
                 var outputfile = smbxPath+"/graphics/scene/scene-" + i + ".gif";
                 FileIO.copy( inputfile, outputfile, false );
             }
             for(var i=33; i<=100; i++)
             {
-                var inputfile = FileIO.scriptPath()+"/commonGFX/dummy_path.gif";
+                var inputfile = FileIO.scriptPath()+"/data/commonGFX/dummy_path.gif";
                 var outputfile = smbxPath+"/graphics/path/path-" + i + ".gif";
                 FileIO.copy( inputfile, outputfile, false );
             }
             for(var i=33; i<=100; i++)
             {
-                var inputfile = FileIO.scriptPath()+"/commonGFX/dummy_wlvl.gif";
+                var inputfile = FileIO.scriptPath()+"/data/commonGFX/dummy_wlvl.gif";
                 var outputfile = smbxPath+"/graphics/level/level-" + i + ".gif";
                 FileIO.copy( inputfile, outputfile, false );
             }
