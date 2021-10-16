@@ -3,7 +3,7 @@ A configure script required to working of SMBX Integration configuration package
 */
 
 /**
- * A main function called by PGE Editor to request configuring process
+ * A main function called by Moondust Editor to request configuring process
  */
 function onConfigure()
 {
@@ -18,11 +18,11 @@ function onConfigure()
         return false;
     }
 
-    var ini = INI.open( FileIO.scriptPath()+"/main.ini");
+    var ini = INI.open(FileIO.configSettingFile());
 
     while(1)
     {
-        smbxPath = FileIO.getOpenDirPath("Please select your directory with installed SMBX or TheXTech to set up the SMBX Integration configuration package...", smbxPath );
+        smbxPath = FileIO.getOpenDirPath("Please select your directory with installed SMBX (or TheXTech) to set up the SMBX Integration configuration package...", smbxPath );
         if(smbxPath=="")
         {
             PGE.msgBoxWarning("Configuring has been canceled",
