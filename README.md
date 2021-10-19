@@ -8,12 +8,11 @@ Is a configuration package for PGE Project which allows direct integration with 
 Take config pack for latest release version of PGE Project take latest version [here](http://wohlsoft.ru/config_packs/pack_info.php?pack=SMBXInt/)
 
 # How to install
-* Make a folder "SMBX Integration" or any other (no matter) in the "configs" folder in the root of PGE folder
-(or in the PGE user data directory).
+* Make a folder "SMBX Integration" or any other (no matter) in the "configs" folder in the root of Moondust directory (or in the Moondust user data directory).
 * Put contents of this repository into it
-* Run the "configure.exe" application and choice a folder where SMBX Engine is located
+* Run the Editor, and select this configuration package in the list
 
-**Note:** *PGE Editor starts from 0.3.1.11 will automatically detect a configure tool and will start it if config pack wasn't configured yet. Therefore you can skip last step and just run PGE Editor*
+**Note:** Moondust Editor 0.3.2.1 and newer is required
 
 
 # Note
