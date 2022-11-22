@@ -1,18 +1,17 @@
 # SMBX Integration
 
+**THIS CONFIGURATION PACKAGE IS OBSOLETE**
+Since the foundation of the TheXTech Project, this configuration package became
+obsolete and will no longer receive any future updates and will be removed from
+public catalogues. This is an archived copy left for historical purposes.
+
+Please use the next configuration package: https://github.com/Wohlstand/TheXTech-SDK
+
+
+# Description
+
 Is a configuration package for Moondust Project which allows direct integration with legacy SMBX Engine
 (on the Windows platform or on other platforms through Windows version under Wine, because SMBX Engine is Windows-only project)
-
-**This version is compatible with [laboratory builds](http://wohlsoft.ru/docs/_laboratory/) of PGE Project, and may be not compatible with current release**,
-
-Take config pack for latest release version of Moondust Project take latest version [here](http://wohlsoft.ru/config_packs/pack_info.php?pack=SMBXInt/)
-
-# How to install
-* Make a folder "SMBX Integration" or any other (no matter) in the "configs" folder in the root of Moondust directory (or in the Moondust user data directory).
-* Put contents of this repository into it
-* Run the Editor, and select this configuration package in the list
-
-**Note:** Moondust Editor 0.3.2.1 and newer is required
 
 
 # Note
