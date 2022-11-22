@@ -1,6 +1,6 @@
 # SMBX Integration
 
-**THIS CONFIGURATION PACKAGE IS OBSOLETE**
+## THIS CONFIGURATION PACKAGE IS OBSOLETE
 Since the foundation of the TheXTech Project, this configuration package became
 obsolete and will no longer receive any future updates and will be removed from
 public catalogues. This is an archived copy left for historical purposes.
