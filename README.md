@@ -1,5 +1,10 @@
 # SMBX Integration
 
+⚠️This copy of config pack is moved to Gitea and no longer will be updated at GitHub:⚠️
+
+New repository: https://gitea.wohlsoft.ru/Moondust-Config-Packs/SMBX-Integration
+
+
 ## THIS CONFIGURATION PACKAGE IS OBSOLETE
 Since the foundation of the TheXTech Project, this configuration package became
 obsolete and will no longer receive any future updates and will be removed from
